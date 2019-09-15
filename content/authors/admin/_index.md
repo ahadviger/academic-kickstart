@@ -21,10 +21,11 @@ organizations:
 bio: My research interests include computer vision and mobile robotics.
 
 interests:
-- computer vision
-- event-based vision
+- event cameras
+- visual odometry
+- SLAM
+- 3D reconstruction
 - machine learning
-- mobile robotics
 - software engineering
 
 education:
