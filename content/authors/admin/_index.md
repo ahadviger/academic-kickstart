@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in computer vision, focused on <b>event-based vision</b> for mobile robotics. I am a member of the Laboratory for Autonomous Systems and Mobile Robotics (<a href="http://lamor.fer.hr">LAMOR</a>) and a teaching assistant at University of Zagreb.
+I am a PhD student in computer vision, focused on <b>event-based vision</b> for mobile robotics. I am a member of the Laboratory for Autonomous Systems and Mobile Robotics (<a href="http://lamor.fer.hr">LAMOR</a>) and a teaching assistant at the University of Zagreb.
